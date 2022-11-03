@@ -1,0 +1,31 @@
+@media (min-width: 624px){
+    .nvbr__menu {
+        display: none;
+    }
+
+    .nvbr__table {
+        display: flex;
+        flex: 0.2 1 auto;
+        column-gap: 1.5rem;
+        justify-content: end;
+    }
+
+    .tbl__sgn {
+        width: 6rem;
+    }
+
+    .main__prgrph {
+        margin-bottom: 8rem;
+    }
+
+    .footer__cntnr > div {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .footer__lst {
+        column-gap: 2rem;
+    }
+
+
+}
