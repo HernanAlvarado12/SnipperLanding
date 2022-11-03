@@ -1,0 +1,14 @@
+@media (min-width: 900px){
+    .elmt--width, .cntnr--width {
+        width: 80%;
+    }
+
+    .header__nvbr, .footer__cntnr {
+        height: 10rem;
+    }
+
+    .elmt__dsk {
+        width: 61rem;
+        margin: 0 auto;
+    }
+}

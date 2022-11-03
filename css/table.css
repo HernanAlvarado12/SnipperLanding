@@ -1,4 +1,8 @@
 @media (min-width: 624px){
+    .elmt--width, .cntnr--width {
+        width: 85%;
+    }
+
     .nvbr__menu {
         display: none;
     }
@@ -8,6 +12,14 @@
         flex: 0.2 1 auto;
         column-gap: 1.5rem;
         justify-content: end;
+    }
+
+    .header__nvbr, .footer__cntnr {
+        height: 8rem;
+    }
+
+    .sctn__main {
+        margin-top: 2rem;
     }
 
     .tbl__sgn {
@@ -26,6 +38,4 @@
     .footer__lst {
         column-gap: 2rem;
     }
-
-
 }

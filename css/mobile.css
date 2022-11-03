@@ -27,6 +27,7 @@ ul { list-style: none; }
 }
 
 .elmt--width, .cntnr--width {
+    max-width: 110rem;
     width: 90%;
 }
 
